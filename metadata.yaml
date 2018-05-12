@@ -1,0 +1,29 @@
+_repo: The-Story-of-the-Atlantic-Telegraph_34765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Henry M. (Henry Martyn)
+    alias: Field, Henry Martyn
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '37206'
+    url: http://www.gutenberg.org/2009/agents/37206
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Field_%28minister%29
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Transatlantic cables'
+title: The Story of the Atlantic Telegraph
+url: http://www.gutenberg.org/ebooks/34765
